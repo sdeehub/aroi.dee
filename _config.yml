@@ -2,8 +2,8 @@
 # Site
 
 title: AROI.DEE
-url: "https://sdeehub.github.io/aroi.dee/"
-baseurl:
+url: "https://sdeehub.github.io/"
+baseurl: "/aroi.dee"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
